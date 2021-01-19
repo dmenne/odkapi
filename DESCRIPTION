@@ -1,0 +1,17 @@
+Package: odkapi
+Title: Client for the ODK Central API
+Version: 0.1.0
+Authors@R: person("Dieter Menne", email = "dieter.menne@menne-biomed.de", role = c("aut", "cre"))
+Description: R Package Client for ODK Central API
+  https://odkcentral.docs.apiary.io/. Generated using 
+  https://www.apimatic.io/dashboard?modal=transform, which uses
+  https://github.com/swagger-api/swagger-codegen.git.
+Depends: R (>= 3.3.3)
+Encoding: UTF-8
+License: GPL-3
+LazyData: true
+Suggests: testthat (>= 3.0), httptest, rprojroot, xslt
+Imports: jsonlite, httr, R6, glue
+RoxygenNote: 7.1.1
+Config/testthat/edition: 3
+Config/testthat/parallel: false

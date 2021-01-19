@@ -1,0 +1,16 @@
+{
+    "general": {
+        "server_url": "https://sgformulare/v1/key/**key**/projects/**project_id**",
+        "navigation": "swipe_buttons",
+        "periodic_form_updates_check": "every_fifteen_minutes",
+        "autosend": "wifi_only",
+        "guidance_hint": "yes_collapsed",
+        "analytics": false
+    },
+    "admin": {
+        "view_sent": false,
+        "change_server": false,
+        "analytics": false,
+        "save_as": false
+    }
+}

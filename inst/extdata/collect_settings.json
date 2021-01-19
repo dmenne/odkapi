@@ -1,0 +1,17 @@
+{
+	"admin": {
+		"view_sent": false,
+		"change_server": false,
+		"analytics": false,
+		"save_as": false
+	},
+
+	"general": {
+		"server_url": "**server_url**",
+		"navigation": "swipe_buttons",
+		"periodic_form_updates_check": "every_fifteen_minutes",
+		"autosend": "wifi_only",
+		"guidance_hint": "yes_collapsed",
+		"analytics": false
+	}
+}

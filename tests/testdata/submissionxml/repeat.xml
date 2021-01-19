@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:orx="http://openrosa.org/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:jr="http://openrosa.org/javarosa" xmlns:h="http://www.w3.org/1999/xhtml" id="repeat" version="repeat">
+  <name>Walter</name>
+  <protokoll_count>2</protokoll_count>
+  <protokoll>
+    <wertsachen>portemonnaie</wertsachen>
+  </protokoll>
+  <protokoll>
+    <wertsachen>hörgerät</wertsachen>
+  </protokoll>
+  <photo>1604070301868.jpg</photo>
+  <patient>Netzer</patient>
+</data>
+ 
